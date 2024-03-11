@@ -1,0 +1,20 @@
+h1 {
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+
+label {
+
+}
+
+#userlabel {
+    font-size: 20px;
+}
+
+#passlabel {
+    font-size: 20px;
+}
+
+.labelclass {
+    color: pink
+}
